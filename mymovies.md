@@ -37,12 +37,7 @@ The entertainment industry has seen a significant shift towards digital platform
 
 - Create .env file:
   ```
-  FIREBASE_API_KEY=""
-  FIREBASE_AUTH_DOMAIN=""
-  FIREBASE_PROJECT_ID=""
-  DATABASE_URL=""
-  FIREBASE_STORAGE_BUCKET=""
-  FIREBASE_MESSAGING_SENDER_ID=""
+  
   ```
 
 4. Running the app:
@@ -106,7 +101,10 @@ The app is built using a microservice architecture with the frontend built using
     <img src="images\event.jpg" alt="">
    <!-- ![Image to the events and onclick on the learn more for events](images\eventlearnmore.jpg) -->
     <img src="images\eventlearnmore.jpg" alt="">
-
+6.  Membership Account
+<img src="images\account2.png" alt="">
+<img src="images/account3.png" alt="">
+<img src="images/account.png" alt=""><img src="images/account1.png" alt="">
 ## Requirements:
 
 ### a. User Authentication
@@ -132,7 +130,7 @@ The app is built using a microservice architecture with the frontend built using
 - High-Quality Streaming: Support multiple video resolutions and adaptive streaming based on the user's internet connection.
 - Offline Viewing: Allow users to download content for offline viewing, with options to choose video quality for downloads.
 
-### d. Subscription and Payment
+### d. Payment
 
 - In-App Purchases: Allow users to subscribe or purchase content directly within the app using in-app purchases.
   <!-- ![subscription, image with alert for purchase in the movie details screen](images\paymentalert.jpg) -->
