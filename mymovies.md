@@ -37,7 +37,12 @@ The entertainment industry has seen a significant shift towards digital platform
 
 - Create .env file:
   ```
-  
+  FIREBASE_API_KEY=AIzaSyDE1wRouoq6nZ5TLuREYy7MOKeURl2Dnd8
+  FIREBASE_AUTH_DOMAIN=auth.mymovies.africa
+  FIREBASE_PROJECT_ID=mychoicetv-a7f9a
+  DATABASE_URL=https://mychoicetv-a7f9a.firebaseio.com
+  FIREBASE_STORAGE_BUCKET=mychoicetv-a7f9a.appspot.com
+  FIREBASE_MESSAGING_SENDER_ID=1006067861904
   ```
 
 4. Running the app:
