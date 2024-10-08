@@ -75,7 +75,7 @@ The app is built using a microservice architecture with the frontend built using
 1. Network Error: Verify that the backend API is running, and ensure the API endpoint is correctly configured.
 2. Collections: API sometimes fails to fetch after purchasing a movie.
    ![path to the collections error msg](images\collections.jpg)
-   <img src="images\collections.jpg" alt="Login/Signup Screen">
+   <img src="images\collections.jpg" alt="">
 
 ### Debugging:
 
@@ -92,29 +92,39 @@ The app is built using a microservice architecture with the frontend built using
 1. Login/Signup: Create an account or log in with details such as your fullname, phone number, email.
 2. Browsing Movies: Browse for movies using the search bar or our user-friendly UI to access great content.
 3. Streaming a Movie: Select a movie of your liking, choose whether to Rent it for 7 days or Own it for life. After that Top-Up your account with your preferred method, pay for the movie and start streaming.
+    <img src="images\moviedetails.jpg" alt="">
    ![Image for movie details, with trailer](images\moviedetails.jpg)
 4. Request Screening: Users can request for screening and fill out a form.
    ![Image for events and request screening](images\homescreenevents.jpg)
+    <img src="images\homescreenevents.jpg" alt="">
+     <img src="images\screening.jpg" alt="">
    ![Image for events and request screening](images\screening.jpg)
 5. See upcoming Events.
    ![Image to the events and onclick on the learn more for events](images\homescreenevents.jpg)
+    <img src="mages\homescreenevents.jpg" alt="">
    ![Image to the events and onclick on the learn more for events](images\event.jpg)
+    <img src="images\event.jpg" alt="">
    ![Image to the events and onclick on the learn more for events](images\eventlearnmore.jpg)
+    <img src="images\eventlearnmore.jpg" alt="">
 
 ## Requirements:
 
 ### a. User Authentication
 
 - Sign Up/Sign In: Allow users to create accounts using email, phone number, or social media.
+ <img src="images\signup.jpg" alt="Login/Signup Screen">
   ![Signup Screen](images\signup.jpg)
+   <img src="images\login.jpg" alt="Login/Signup Screen">
   ![Login Screen](images\login.jpg)
 
 ### b. Content Library
 
 - Browse and Search: Users should be able to browse and search for movies, series, and documentaries.
   ![Movie Browsing/search bar Screen](images\searchbar.jpg)
+   <img src="images\searchbar.jpg" alt="">
 - Categories and Filters: Implement categories (e.g. genres) and filters to help users find content easily.
   ![Movie Browsing/with search categories Screen](images\searchcategories.jpg)
+   <img src="images\searchcategories.jpg" alt="">
 - Personalized Recommendations: Use machine learning algorithms to recommend content based on user preferences, watch history, and trending content.
 
 ### c. Video Playback
@@ -126,8 +136,10 @@ The app is built using a microservice architecture with the frontend built using
 
 - In-App Purchases: Allow users to subscribe or purchase content directly within the app using in-app purchases.
   ![subscription, image with alert for purchase in the movie details screen](images\paymentalert.jpg)
+   <img src="images\paymentalert.jpg" alt="">
 - Local Payment Methods: Integrate local payment gateways (e.g., mobile money, bank transfers) to cater to the African market.
   ![Payment options](images\paymentoptions.jpg)
+   <img src="images\paymentoptions.jpg" alt="">
 
 ## Backend and API Requirements
 
@@ -334,6 +346,7 @@ Optimized Video Streaming: Use adaptive bitrate streaming to adjust video qualit
 Uses a Bottom navigation bar for easy access to key sections (e.g., Home, Categories, Search, Profile).
 Bottom navigation is used on mobile devices for easier thumb access.
 ![bottom navigation image](images\bottonnav.jpg)
+ <img src="images\bottonnav.jpg" alt="Login/Signup Screen">
 
 
 ## User Flows:
@@ -356,6 +369,7 @@ Content Sections:
 
 Content is likely organized into sections (e.g., "Trending", "New Releases") with clear headings and horizontal scrolling for easy browsing.
 ![content section](images\homescreen.jpg)
+ <img src="(images\homescreen.jpg" alt="Login/Signup Screen">
 
 ## Interaction Design
 
@@ -455,21 +469,5 @@ The team conducted UX testing to ensure that the app provided a smooth and intui
 
 ### Guide to Using the App
 
-1. Login/Signup: Create an account or log in with details such as your fullname, phone number, email.
-   ![Login/Signup Screen](path/to/login_screenshot.jpg)
-
-2. Browsing Movies: Browse for movies using the search bar or our user-friendly UI to access great content.
-   ![Movie Browsing Screen](path/to/browsing_screenshot.jpg)
-
-3. Streaming a Movie: Select a movie of your liking, choose whether to Rent it for 7 days or Own it for life. After that Top-Up your account with your preferred method, pay for the movie and start streaming.
-   ![Movie Streaming Screen](path/to/streaming_screenshot.jpg)
-
-4. Request Screening: Users can request for screening and fill out a form.
-   ![Screening Request Form](path/to/screening_request_screenshot.jpg)
-
-5. See upcoming Events.
-   ![Upcoming Events Screen](path/to/events_screenshot.jpg)
-
-```
 
 ```
