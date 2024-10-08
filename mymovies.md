@@ -467,7 +467,6 @@ The team conducted UX testing to ensure that the app provided a smooth and intui
 
 
 
-### Guide to Using the App
 
 
 ```
