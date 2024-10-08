@@ -75,6 +75,7 @@ The app is built using a microservice architecture with the frontend built using
 1. Network Error: Verify that the backend API is running, and ensure the API endpoint is correctly configured.
 2. Collections: API sometimes fails to fetch after purchasing a movie.
    ![path to the collections error msg](images\collections.jpg)
+   <img src="images\collections.jpg" alt="Login/Signup Screen">
 
 ### Debugging:
 
